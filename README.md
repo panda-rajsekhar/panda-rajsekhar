@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi  , thank you for stopping by my profile. <br>I am an electronics and communication engineering students developing projects reflecting a mixture of software and hardware.<br>I've started coding in 2017 and worked with multiple programming languages.<br>I am one of the "Self - Taught" programmers. <br>Always acceptable to learn new ideas !!!
+Hi  , thank you for stopping by my profile. <br>I am an electronics and communication engineering students developing projects reflecting a mixture of software and hardware.<br>I've started coding in 2017 and worked with multiple programming languages.<br>I am one of the "Self - Taught" programmers. <br>Always acceptable to learn new ideas !!! <br> Fun Fact About Me: Linux User for past 5 years 
 
 
 ## 🌐 Socials:
