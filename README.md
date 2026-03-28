@@ -13,14 +13,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=panda-rajsekhar&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panda-rajsekhar&layout=compact&theme=tokyonight&langs_count=10" />
-</p>
-
----
 
 ## 🔥 Streak Stats
 
