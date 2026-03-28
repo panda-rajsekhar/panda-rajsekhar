@@ -9,7 +9,7 @@
 
 ## 🚀 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,js,ts,react,linux,git,vite,tailwind,julia,matlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,js,ts,react,linux,git,vite,tailwind,julia,matlab,latex,ubuntu,kali,arch,raspberrypi,npm,arduino)](https://skillicons.dev)
 
 ---
 
