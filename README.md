@@ -14,13 +14,6 @@
 ---
 
 
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=panda-rajsekhar&theme=tokyonight" />
-</p>
-
----
 
 ## 🧠 Currently Exploring
 
@@ -31,16 +24,9 @@
 
 ---
 
-
-## 📈 Activity Graph
-
-[![Rajsekhar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=panda-rajsekhar&theme=tokyo-night)](https://github.com/panda-rajsekhar)
-
----
-
 ## 🧩 Philosophy
 
-> “Build systems that are not just functional, but meaningful.”
+ “Build systems that are not just functional, but meaningful.”
 
 ---
 
