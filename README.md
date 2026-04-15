@@ -8,9 +8,22 @@
 ---
 
 ## 🚀 Tech Stack
+[![Languages](https://skillicons.dev/icons?i=c,cpp,python,js,ts,julia,matlab,lua,bash)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,js,ts,react,linux,neovim,git,vite,tailwind,julia,matlab,latex,ubuntu,kali,arch,raspberrypi,npm,arduino)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,svelte,tailwind,django,opencv,qt,supabase)](https://skillicons.dev)
 
+[![Tools](https://skillicons.dev/icons?i=git,npm,pnpm,yarn,vite,vitest)](https://skillicons.dev)
+
+[![Editors](https://skillicons.dev/icons?i=neovim,emacs,sublime,atom,obsidian)](https://skillicons.dev)
+
+[![Systems](https://skillicons.dev/icons?i=linux,ubuntu,debian,arch,kali,redhat,bsd,raspberrypi)](https://skillicons.dev)
+
+[![Other](https://skillicons.dev/icons?i=arduino,mysql,svg,stackoverflow)](https://skillicons.dev)
+
+[![Cybersecurity](https://skillicons.dev/icons?i=kali,linux,bash,python,git,github,cloudflare,nginx)](https://skillicons.dev)
+
+- **Tools:** Nmap, Wireshark, Metasploit, Burp Suite, John the Ripper  
+- **Concepts:** Networking, Cryptography, Web Security, Reverse Engineering
 ---
 
 
