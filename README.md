@@ -22,8 +22,7 @@
 
 [![Cybersecurity](https://skillicons.dev/icons?i=kali,linux,bash,python,git,github,cloudflare,nginx)](https://skillicons.dev)
 
-- **Tools:** Nmap, Wireshark, Metasploit, Burp Suite, John the Ripper  
-- **Concepts:** Networking, Cryptography, Web Security, Reverse Engineering
+
 ---
 
 
