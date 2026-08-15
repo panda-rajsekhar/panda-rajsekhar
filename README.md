@@ -75,8 +75,7 @@ philosophy: "Build systems that are not just functional, but meaningful."
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=panda-rajsekhar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panda-rajsekhar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" />
+
 
 <br/>
 
