@@ -99,15 +99,6 @@ I like sitting at the intersection of **electronics and software** — taking an
 
 ### 🔧 Featured Builds
 
-<div align="center">
-
-[![STM32 Bluepill Plus](https://github-readme-stats.vercel.app/api/pin/?username=panda-rajsekhar&repo=STM32F103C8T6-Bluepill-Plus&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF)](https://github.com/panda-rajsekhar/STM32F103C8T6-Bluepill-Plus)
-[![RaspberryPi-Pico](https://github-readme-stats.vercel.app/api/pin/?username=panda-rajsekhar&repo=RaspberryPi-Pico&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF)](https://github.com/panda-rajsekhar/RaspberryPi-Pico)
-
-[![GnuOctave](https://github-readme-stats.vercel.app/api/pin/?username=panda-rajsekhar&repo=GnuOctave&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF)](https://github.com/panda-rajsekhar/GnuOctave)
-
-</div>
-
 - 🔩 **[STM32F103C8T6-Bluepill-Plus](https://github.com/panda-rajsekhar/STM32F103C8T6-Bluepill-Plus)** — bare-metal exploration of the STM32 "Bluepill" board with an ST-Link V2 programmer/debugger
 - 🍓 **[RaspberryPi-Pico](https://github.com/panda-rajsekhar/RaspberryPi-Pico)** — experiments and programs built for the Pi Pico
 - 📐 **[GnuOctave](https://github.com/panda-rajsekhar/GnuOctave)** — a collection of GNU Octave / MATLAB scripts covering a range of engineering concepts
