@@ -2,7 +2,6 @@
 
 # Rajsekhar Panda
 
-**Electronics & Communication Engineer · Self-Taught Coder**
 
 📍 Bankura, West Bengal, India
 
