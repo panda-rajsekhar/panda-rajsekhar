@@ -1,31 +1,31 @@
 ```bash
 $ whoami
 Rajsekhar Panda — Electronics & Communication Engineering student
+W.B. & H.P. ~ India 
 
 $ cat ~/interests.txt
 - Embedded systems / HMI
-- System design
-- Antenna & propagation theory
-- Cryptography & secure systems
-- Performance engineering
+- System Design
+- Antenna & Propagation Theory
+- Cryptography & Secure Systems
+- Performance Engineering
 
 $ ls ~/tech/
 languages/   frameworks/   systems/   hardware/
 
 $ cat ~/tech/languages/
-C  C++  Python  JS/TS  Julia  MATLAB  Lua  Bash
+Assembly  C  C++  Verilog  Bash  Python  JS/TS  Julia  MATLAB  Lua  
 
 $ cat ~/tech/frameworks/
 React  Next.js  Svelte  Django  OpenCV  Qt
 
 $ cat ~/tech/systems/
-Linux  Ubuntu  Arch  Kali  BSD  RaspberryPi OS
+Linux  Ubuntu  Arch  Kali  BSD  RaspberryPi-OS
 
 $ cat ~/tech/hardware/
-Arduino  STM32  Raspberry Pi Pico  nginx  Cloudflare
+Arduino  STM32  Raspberry Pi   
 
 $ ls ~/projects/
-STM32F103C8T6-Bluepill-Plus/
 RaspberryPi-Pico/
 GnuOctave/
 
