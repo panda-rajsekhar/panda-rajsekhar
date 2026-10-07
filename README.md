@@ -18,12 +18,8 @@
   },
   "projects": [
     {
-      "name": "STM32F103C8T6-Bluepill-Plus",
-      "description": "Bare-metal STM32 Bluepill + ST-Link V2"
-    },
-    {
       "name": "RaspberryPi-Pico",
-      "description": "Embedded experiments on Pi Pico"
+      "description": "Embedded experiments on Pi Pico curated like handbook"
     },
     {
       "name": "GnuOctave",
